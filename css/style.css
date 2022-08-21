@@ -1,0 +1,56 @@
+header{
+   text-align: center;
+   background-image: url(../img/fondoencabezado.jpeg);
+
+}
+.foto_perfil{
+    width: 250px;
+}
+body{
+    background-position: center;
+}
+
+h1{
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    font-size: xx-large;
+    color: #040475;
+}
+input{
+    background-image: -webkit-linear-gradient(top, #eb94d0, #2079b0);
+    border-radius: 6px;
+    width:200px;
+    height: 40px;
+    font-size: large;
+    text-align: center;
+}
+nav{
+    font-size:x-large;
+    font-weight: bold;
+}
+h2{
+    font-family: 'Roboto Slab', serif;
+    color: #040475;
+    margin: 0%;
+    background-color: rgba(169, 152, 152,0.18)
+
+}
+span{
+    font-weight: bold;
+    font-style: italic;
+}
+ul{
+    margin: 0%;
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+    color: #040475;
+    background-color: rgba(169, 152, 152,0.18);
+    font-size: x-large;
+}
+p{
+  margin: 0%;
+
+}
+
